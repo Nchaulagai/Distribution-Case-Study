@@ -1,1 +1,4 @@
 # Distribution-Case-Study
+•	Analysis of the distribution logistics of a company having warehouses in Bremen and Spain, who brought their product from China via ship to Bremerhaven port and Port of Santander and transported from Bremerhaven via truck to Bremen and from Santander via railway to Valencia.
+•	Management wanted to build centralized warehouse in Paris, France, to evaluate the situation, Calculated Costs of Shipments as well as Emissions of Transport, EOQ, RT, Safety Stock, Average Demands for each warehouse and calculated Redesign cost in for Paris warehouse
+•	Finally dissected the Decentralized costs and Centralized costs surplus the buildup costs and Shutdown Costs. Then provided final report regarding which one is preferrable with analysis of Storage costs, Transportation Costs, Throughput Time, Delivery Time, and Total Emissions of the Operation.
